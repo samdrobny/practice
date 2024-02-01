@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0px;
+    background-color: white;
+    color:black;
+    font-family: "brother-1816", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul {
+    margin-left: 60px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+}
+
+ul li a {
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "brother-1816", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 20px;
+}
+
+ul li a:hover {
+    font-weight: 600;
+}
+
+.me {
+    max-width: 15%;
+}
+
+.dog {
+    max-width: 15%;
+}
+
+img {
+    size: 50%;
+}
+
+p {
+    font-family: "brother-1816", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sidea {
+    scale: 55%;
+    position: absolute;
+  
+}
+
+.sideb {
+    scale: 55%;
+    position: absolute;
+  
+}
+
+.bottom {
+    scale: 55%;
+    position: absolute;
+
+}

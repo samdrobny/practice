@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0px;
+    background-color: black;
+    color:azure;
+}
+
+ul {
+    margin-left: 80px;
+    position: absolute;
+    margin-bottom: 0px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+}
+
+ul li a {
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "brother-1816", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 20px;
+}
+
+ul li a:hover {
+    font-weight: 600;
+}
+
+.logo {
+    scale: 75%;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.sidea {
+    scale: 55%;
+    position: absolute;
+    margin-right: 1500px;
+    margin-bottom: 600px;
+}
+
+.sideb {
+    scale: 55%;
+    position: absolute;
+    margin-left: 1300px;
+    margin-bottom: 400px;
+}
+
+.bottom {
+    scale: 55%;
+    position: absolute;
+    margin-top: 630px;
+    margin-right: 600px;
+}
+
+.footer {
+    position: absolute;
+    margin-top: 550px;
+}
+
+.fb {
+    position: absolute;
+    scale: 40%;
+    margin-top: 700px;
+    margin-left: 900px;
+}
+
+p {
+    position: absolute;
+    margin-top: 750px;
+    margin-left: 1010px;
+    font-family: "brother-1816", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
